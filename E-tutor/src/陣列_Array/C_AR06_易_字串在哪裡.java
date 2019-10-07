@@ -13,6 +13,7 @@ public class C_AR06_易_字串在哪裡 {
 		else {
 			Boolean format_test = true;
 			ArrayList<char[]> AL = new ArrayList<char[]>();
+//			int nth=4;
 			while (sc.hasNext()) {
 				String input_Line = sc.nextLine();
 				if (AL.size() == 20 || input_Line.length() > 20) {
@@ -21,6 +22,7 @@ public class C_AR06_易_字串在哪裡 {
 				}
 
 				AL.add(input_Line.toCharArray());
+//				if(--nth<=0)break;
 			}
 			if (!format_test)
 				System.out.println("Array Overflow");
@@ -30,7 +32,7 @@ public class C_AR06_易_字串在哪裡 {
 						char[] target = input.toCharArray();
 						if (target[0] == AL.get(y)[x]) {
 							// 左
-							if (x - target.length - 1 >= 0) {
+							if (x - target.length+1  >= 0) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y)[x - n])
 										break;
@@ -40,7 +42,7 @@ public class C_AR06_易_字串在哪裡 {
 								}
 							}
 							// 左上
-							if (x - target.length - 1 >= 0 && y - target.length - 1 >= 0) {
+							if (x - target.length+1 >= 0 && y - target.length+1  >= 0) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y - n)[x - n])
 										break;
@@ -50,7 +52,7 @@ public class C_AR06_易_字串在哪裡 {
 								}
 							}
 							// 上
-							if (y - target.length - 1 >= 0) {
+							if (y - target.length+1  >= 0) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y - n)[x])
 										break;
@@ -60,7 +62,7 @@ public class C_AR06_易_字串在哪裡 {
 								}
 							}
 							// 右上
-							if (x + target.length - 1 < AL.get(y).length && y - target.length - 1 >= 0) {
+							if (x + target.length - 1 < AL.get(y).length && y - target.length+1  >= 0) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y - n)[x + n])
 										break;
@@ -100,7 +102,7 @@ public class C_AR06_易_字串在哪裡 {
 								}
 							}
 							// 左下
-							if (x - target.length - 1 >= 0 && y + target.length - 1 < AL.size()) {
+							if (x - target.length+1  >= 0 && y + target.length - 1 < AL.size()) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y + n)[x - n])
 										break;
