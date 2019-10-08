@@ -18,27 +18,28 @@ public class C_AR10_中_新通話費率 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		
-		String input=sc.nextLine();
-		int a=Integer.parseInt(input.substring(0,input.indexOf(",")));
-		int b=Integer.parseInt(input.substring(input.indexOf(" ")+1,input.length()));
+
+		String[] input = sc.nextLine().split(",");
+		int a = Integer.parseInt(input[0]);
+		double b = Double.parseDouble(input[1]);
 		CallRate rate = null;
-		switch(a) {
+		switch (a) {
 		case 186:
-			rate=new CallRate(0.09,0.9,0.8);
+			rate = new CallRate(0.09, 0.9, 0.8);
 			break;
 		case 386:
-			rate=new CallRate(0.08,0.8,0.7);
+			rate = new CallRate(0.08, 0.8, 0.7);
 			break;
 		case 586:
-			rate=new CallRate(0.07,0.7,0.6);
+			rate = new CallRate(0.07, 0.7, 0.6);
 			break;
 		case 986:
-			rate=new CallRate(0.06,0.6,0.5);
+			rate = new CallRate(0.06, 0.6, 0.5);
 			break;
 		}
-		long ans=Math.round(b*rate.rate);		
-		System.out.println(Math.round(ans*(ans/a<2?rate.one_discount:rate.two_discount)));
+		long ans = Math.round(b * rate.rate);
+		System.out.println(Math.round(ans * (ans <= a ? 1 : (ans / a <= 2 ? rate.one_discount : rate.two_discount))));
+
 	}
 
 }

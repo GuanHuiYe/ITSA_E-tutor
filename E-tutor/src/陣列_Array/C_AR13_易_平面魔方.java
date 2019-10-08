@@ -47,8 +47,7 @@ public class C_AR13_易_平面魔方 {
 			}
 			for (int y = 0; y < size; y++) {
 				for (int x = 0; x < size; x++) {
-					ans+="    ";
-					ans+=magic[y][x];					
+					ans+=String.format("%5d", magic[y][x]);					
 				}
 				ans+="\n";
 			}
