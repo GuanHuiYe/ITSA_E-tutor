@@ -7,7 +7,7 @@ public class C_RU08_©ö_¼u¤O²y {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		while (sc.hasNext()) {
-			System.out.printf("%.2f", GetAns(Double.parseDouble(sc.nextLine())));
+			System.out.printf("%.2f\n", GetAns(Double.parseDouble(sc.nextLine())));
 		}
 	}
 

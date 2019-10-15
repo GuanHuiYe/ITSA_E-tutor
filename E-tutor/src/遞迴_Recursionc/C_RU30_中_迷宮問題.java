@@ -20,6 +20,7 @@ public class C_RU30_中_迷宮問題 {
 		}
 		Boolean test = false;
 		map[Start_Y][Start_X] = "S";
+		map[End_Y][End_X] = "X";
 		if (!test)
 			test = GO(Start_X + 1, Start_Y);
 		if (!test)
@@ -33,14 +34,12 @@ public class C_RU30_中_迷宮問題 {
 	}
 
 	public static Boolean GO(int x, int y) {
-		if (x == End_X && y == End_Y) {
-			map[y][x] = "X";
+		if (x == End_X && y == End_Y)
 			return true;
-		}
+
 		if (map[y][x].equals("1") || map[y][x].equals("S") || map[y][x].equals("G"))
 			return false;
-		if (map[y][x].equals("0"))
-			map[y][x] = "G";
+		map[y][x] = "G";
 
 		if (GO(x + 1, y))
 			return true;
@@ -51,8 +50,7 @@ public class C_RU30_中_迷宮問題 {
 		if (GO(x, y + 1))
 			return true;
 
-		if (map[y][x].equals("G"))
-			map[y][x] = "D";
+		map[y][x] = "D";
 		return false;
 	}
 

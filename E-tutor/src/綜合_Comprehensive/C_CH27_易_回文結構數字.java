@@ -21,7 +21,7 @@ public class C_CH27_易_回文結構數字 {
 				if (test)
 					ans += num + " ";
 			}
-			System.out.println(ans);
+			System.out.println(ans.equals("")?"0":ans.substring(0,ans.length()-1));
 		}
 
 	}
