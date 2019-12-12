@@ -19,8 +19,8 @@ public class C_MM85_易_完美數問題 {
 				ans += num + " ";
 		}
 		if (ans.length() > 0)
-			System.out.println(ans+"is perfect number");
-		
+			System.out.print(ans);
+		System.out.println("is perfect number");
 
 	}
 
