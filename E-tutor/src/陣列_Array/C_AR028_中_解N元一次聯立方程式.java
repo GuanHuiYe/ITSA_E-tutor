@@ -20,15 +20,36 @@ public class C_AR028_中_解N元一次聯立方程式 {
 				input[y][x] = Double.parseDouble(AL_Row[x]);
 			}
 		}
+		
 		for (int col = 0; col < input[0].length - 1; col++) {
-			
+						
 			if(input[col][col]!=1.0) {
-				Double num=1.0/input[col][col];
-				for(int index=0;index<input[col].length;index++) {
-					if(input[col][index]!=0) {
-						input[col][index]*=num;
+				int SearchIndex=col;
+				Double MaxNum=input[col][col];
+				for(int index=col+1;index<input.length;index++) {
+					if(input[index][col]==1.0) {
+						SearchIndex=index;
+						break;
+					}
+					if(input[index][col]>MaxNum) {
+						SearchIndex=index;
+						MaxNum=input[index][col];
 					}
 				}
+				if(SearchIndex!=col) {
+					Double[] tmp=input[col];
+					input[col]=input[SearchIndex];
+					input[SearchIndex]=tmp;
+				}
+				if(input[col][col]!=1.0) {
+					Double num=1.0/input[col][col];
+					for(int index=0;index<input[col].length;index++) {
+						if(input[col][index]!=0) {
+							input[col][index]*=num;
+						}
+					}
+				}
+				
 			}
 			
 			for (int row = col + 1; row < input.length; row++) {
