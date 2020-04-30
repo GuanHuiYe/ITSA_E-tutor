@@ -1,7 +1,7 @@
-package ¼Æ¾Ç_Mathematics;
+package æ•¸å­¸_Mathematics;
 import java.math.BigInteger;
 import java.util.*;
-public class C_MM49_©ö_³sÄò1ªº­¿¼Æ {
+public class C_MM49_æ˜“_é€£çºŒ1çš„å€æ•¸ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,11 +1,11 @@
-package ¼Æ¾ÇII_MathematicsII;
+package æ•¸å­¸II_MathematicsII;
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
 
-public class C_MM072_©ö_¤ß±o³ø¼Æ {
+public class C_MM072_æ˜“_å¿ƒå¾—å ±æ•¸ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

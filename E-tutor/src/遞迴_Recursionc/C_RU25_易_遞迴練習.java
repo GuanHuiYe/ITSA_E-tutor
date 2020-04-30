@@ -1,8 +1,8 @@
-package »¼°j_Recursionc;
+package éè¿´_Recursionc;
 
 import java.util.*;
 
-public class C_RU25_©ö_»¼°j½m²ß {
+public class C_RU25_æ˜“_éè¿´ç·´ç¿’ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -10,14 +10,14 @@ public class C_RU25_©ö_»¼°j½m²ß {
 		System.out.printf("%d %d\n", GetF(input), GetG(input));
 	}
 
-//	f(n)¡×3f(n-1)+g(n-1)
+//	f(n)ï¼3f(n-1)+g(n-1)
 	public static int GetF(int n) {
 		if (n == 1)
 			return 2;
 		return 3 * GetF(n - 1) + GetG(n - 1);
 	}
 
-	// g(n)¡×-f(n-1)+g(n-1)
+	// g(n)ï¼-f(n-1)+g(n-1)
 	public static int GetG(int n) {
 		if (n == 1)
 			return -6;

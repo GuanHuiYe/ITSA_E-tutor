@@ -1,7 +1,7 @@
-package ¼Æ¾Ç_Mathematics;
+package æ•¸å­¸_Mathematics;
 import java.util.Scanner;
 
-public class C_MM01_©ö_­pºâ±è«¬­±¿n {
+public class C_MM01_æ˜“_è¨ˆç®—æ¢¯å‹é¢ç© {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

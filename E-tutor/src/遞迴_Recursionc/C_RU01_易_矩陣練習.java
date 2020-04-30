@@ -1,9 +1,9 @@
-package »¼°j_Recursionc;
+package éè¿´_Recursionc;
 
 import java.util.*;
 import java.math.*;
 
-public class C_RU01_©ö_¯x°}½m²ß {
+public class C_RU01_æ˜“_çŸ©é™£ç·´ç¿’ {
 	public static TreeMap<Integer, BigInteger> Factorial;
 
 	public static void main(String[] args) {

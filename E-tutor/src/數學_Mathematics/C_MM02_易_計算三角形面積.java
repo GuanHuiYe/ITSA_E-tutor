@@ -1,6 +1,6 @@
-package ¼Æ¾Ç_Mathematics;
+package æ•¸å­¸_Mathematics;
 import java.util.Scanner;
-public class C_MM02_©ö_­pºâ¤T¨¤§Î­±¿n {
+public class C_MM02_æ˜“_è¨ˆç®—ä¸‰è§’å½¢é¢ç© {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);

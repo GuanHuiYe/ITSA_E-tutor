@@ -1,8 +1,8 @@
-package ¸ê®Æµ²ºc_Datastructurec;
+package è³‡æ–™çµæ§‹_Datastructurec;
 
 import java.util.*;
 
-public class C_DT05_¤¤_´M§ä¥ô·N¾ã¼Æ¼Æ¦C¤¤¤§³Ì¤j»¼¼W¤l¼Æ¦C {
+public class C_DT05_ä¸­_å°‹æ‰¾ä»»æ„æ•´æ•¸æ•¸åˆ—ä¸­ä¹‹æœ€å¤§éå¢å­æ•¸åˆ— {
 	public static class Data {
 		public LinkedList<Integer> value;
 

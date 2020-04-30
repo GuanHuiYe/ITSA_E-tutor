@@ -1,8 +1,8 @@
-package ºî¦X_Comprehensive;
+package ç¶œåˆ_Comprehensive;
 
 import java.util.*;
 
-public class C_CH05_©ö_¤ñ¸û¼Æ¦r¤j¤p {
+public class C_CH05_æ˜“_æ¯”è¼ƒæ•¸å­—å¤§å° {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

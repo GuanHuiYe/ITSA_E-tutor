@@ -1,8 +1,8 @@
-package »¼°j_Recursionc;
+package éè¿´_Recursionc;
 
 import java.util.*;
 
-public class C_RU30_¤¤_°g®c°İÃD {
+public class C_RU30_ä¸­_è¿·å®®å•é¡Œ {
 	public static String[][] map;
 	public static int Start_X = 8;
 	public static int Start_Y = 8;

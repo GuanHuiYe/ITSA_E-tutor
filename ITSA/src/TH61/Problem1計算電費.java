@@ -1,6 +1,6 @@
 package TH61;
 import java.util.*;
-public class Problem1­pºâ¹q¶O {
+public class Problem1è¨ˆç®—é›»è²» {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

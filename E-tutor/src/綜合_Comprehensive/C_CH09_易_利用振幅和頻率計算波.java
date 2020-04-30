@@ -1,7 +1,7 @@
-package ºî¦X_Comprehensive;
+package ç¶œåˆ_Comprehensive;
 import java.util.*;
 
-public class C_CH09_©ö_§Q¥Î®¶´T©MÀW²v­pºâªi {
+public class C_CH09_æ˜“_åˆ©ç”¨æŒ¯å¹…å’Œé »ç‡è¨ˆç®—æ³¢ {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

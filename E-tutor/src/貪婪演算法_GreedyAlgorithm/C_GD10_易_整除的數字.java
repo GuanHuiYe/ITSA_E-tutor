@@ -1,7 +1,7 @@
-package ³g°ýºtºâªk_GreedyAlgorithm;
+package è²ªå©ªæ¼”ç®—æ³•_GreedyAlgorithm;
 import java.util.*;
 
-public class C_GD10_©ö_¾ã°£ªº¼Æ¦r {
+public class C_GD10_æ˜“_æ•´é™¤çš„æ•¸å­— {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

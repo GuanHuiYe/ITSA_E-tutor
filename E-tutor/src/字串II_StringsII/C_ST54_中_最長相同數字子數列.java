@@ -1,7 +1,7 @@
-package ﹃II_StringsII;
+package 瀛椾覆II_StringsII;
 import java.util.*;
 
-public class C_ST54_い_程计计 {
+public class C_ST54_涓璤鏈�闀风浉鍚屾暩瀛楀瓙鏁稿垪 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

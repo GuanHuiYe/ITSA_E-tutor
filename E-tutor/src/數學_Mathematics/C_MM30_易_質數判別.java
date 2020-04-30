@@ -1,9 +1,9 @@
-package ¼Æ¾Ç_Mathematics;
+package æ•¸å­¸_Mathematics;
 
 import java.util.*;
 import java.math.*; 
 
-public class C_MM30_©ö_½è¼Æ§P§O {
+public class C_MM30_æ˜“_è³ªæ•¸åˆ¤åˆ¥ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

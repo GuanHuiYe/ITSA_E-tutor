@@ -2,7 +2,7 @@ package TH71;
 
 import java.util.*;
 
-public class Problem1_�q�Ʀr {
+public class Problem1_猜數字 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

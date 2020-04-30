@@ -1,8 +1,8 @@
-package °}¦C_Array;
+package é™£åˆ—_Array;
 
 import java.util.*;
 
-public class C_AR39_©ö_©M²Í²Õ¦¨­µ {
+public class C_AR39_æ˜“_å’Œçµƒçµ„æˆéŸ³ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

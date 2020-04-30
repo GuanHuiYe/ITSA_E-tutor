@@ -1,8 +1,8 @@
-package ¸ê®Æµ²ºc_Datastructurec;
+package è³‡æ–™çµæ§‹_Datastructurec;
 
 import java.util.*;
 
-public class C_DT35_¤¤_¤p½_¦Ì¹A³õ {
+public class C_DT35_ä¸­_å°ç¨»ç±³è¾²å ´ {
 	public static int[][] map;
 
 	public static void main(String[] args) {

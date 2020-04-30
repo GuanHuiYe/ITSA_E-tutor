@@ -1,8 +1,8 @@
-package ¼Æ¾Ç_Mathematics;
+package æ•¸å­¸_Mathematics;
 
 import java.util.*;
 
-public class C_MM45_¤¤_¤ÀÂ§ª« {
+public class C_MM45_ä¸­_åˆ†ç¦®ç‰© {
 
 	public static class MAN {
 		public int no;

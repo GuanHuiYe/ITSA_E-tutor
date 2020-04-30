@@ -1,10 +1,10 @@
-package ¸ê®Æµ²ºc_Datastructurec;
+package è³‡æ–™çµæ§‹_Datastructurec;
 
 import java.util.*;
 
-public class C_DT01_©ö_The_Tree {
+public class C_DT01_æ˜“_The_Tree {
 
-	//¹Bºâ
+	//é‹ç®—
 	public static Double operation(String item) {
 		Double ans = 0.0;
 
@@ -31,7 +31,7 @@ public class C_DT01_©ö_The_Tree {
 		return ans;
 	}
 
-	//·j´M´À´«ªº­È
+	//æœå°‹æ›¿æ›çš„å€¼
 	public static String searchAims(LinkedList<String[]> aims, String value) {
 		for (String[] item : aims) {
 			if (item[0].equals(value)) {
@@ -41,12 +41,12 @@ public class C_DT01_©ö_The_Tree {
 		return "-1";
 	}
 
-	//­n³QµLµøªº­È
+	//è¦è¢«ç„¡è¦–çš„å€¼
 	public static String notAims = "()";
-	//¹Bºâªº­È
+	//é‹ç®—çš„å€¼
 	public static String aimsSymbol = "+-*/";
 
-	//¥Î¨Ó¦s¸ê®Æªº
+	//ç”¨ä¾†å­˜è³‡æ–™çš„
 	public static Queue<String> Tree = new LinkedList<String>();
 
 	public static void main(String[] args) {

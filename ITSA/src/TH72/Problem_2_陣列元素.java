@@ -2,7 +2,7 @@ package TH72;
 
 import java.util.*;
 
-public class Problem_2_°}¦C¤¸¯À {
+public class Problem_2_é™£åˆ—å…ƒç´  {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

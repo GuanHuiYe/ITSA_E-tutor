@@ -1,6 +1,6 @@
-package °}¦C_Array;
+package é™£åˆ—_Array;
 import java.util.*;
-public class C_AR05_©ö_³Ì¤Ö¬£¨®¼Æ {
+public class C_AR05_æ˜“_æœ€å°‘æ´¾è»Šæ•¸ {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
@@ -11,7 +11,7 @@ public class C_AR05_©ö_³Ì¤Ö¬£¨®¼Æ {
 			clock[n][0]=Integer.parseInt(input[n*2]);
 			clock[n][1]=Integer.parseInt(input[n*2+1]);
 		}
-		clock=sort(clock); //±Æ§Ç°_ÂI®É¶¡
+		clock=sort(clock); //æ’åºèµ·é»æ™‚é–“
 		int ans=1;		
 		int e=clock[0][1];
 		clock[0][0]=0;
@@ -19,8 +19,8 @@ public class C_AR05_©ö_³Ì¤Ö¬£¨®¼Æ {
 		Boolean test=true;
 		while(test) {
 			for(int index=0;index<clock.length;index++) {
-				if(clock[index][0]==0)continue;//³Q¨ú¹Lªº
-				if(clock[index][0]<e)continue;//°_ÂI®É¶¡¤ñ²×ÂI¤pªº
+				if(clock[index][0]==0)continue;//è¢«å–éçš„
+				if(clock[index][0]<e)continue;//èµ·é»æ™‚é–“æ¯”çµ‚é»å°çš„
 				e=clock[index][1];
 				clock[index][0]=0;
 				clock[index][1]=0;

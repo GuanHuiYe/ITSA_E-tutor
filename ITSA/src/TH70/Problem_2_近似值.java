@@ -1,6 +1,6 @@
 package TH70;
 import java.util.*;
-public class Problem_2_ªñ¦ü­È {
+public class Problem_2_è¿‘ä¼¼å€¼ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

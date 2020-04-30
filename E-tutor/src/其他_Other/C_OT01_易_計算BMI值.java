@@ -1,9 +1,9 @@
-package ¨ä¥L_Other;
+package å…¶ä»–_Other;
 
 import java.io.*;
 import java.util.*;
 
-public class C_OT01_©ö_­pºâBMI­È {
+public class C_OT01_æ˜“_è¨ˆç®—BMIå€¼ {
 
 	public static void main(String[] args) {
 		try {

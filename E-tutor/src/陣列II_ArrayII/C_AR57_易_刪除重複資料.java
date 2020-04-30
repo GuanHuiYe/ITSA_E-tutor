@@ -1,7 +1,7 @@
-package °}¦CII_ArrayII;
+package é™£åˆ—II_ArrayII;
 import java.util.*;
 
-public class C_AR57_©ö_§R°£­«½Æ¸ê®Æ {
+public class C_AR57_æ˜“_åˆªé™¤é‡è¤‡è³‡æ–™ {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

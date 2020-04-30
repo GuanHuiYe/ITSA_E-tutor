@@ -1,8 +1,8 @@
-package °}¦C_Array;
+package é™£åˆ—_Array;
 
 import java.util.*;
 
-public class C_AR15_©ö_«OÄÖ²y­p¤À {
+public class C_AR15_æ˜“_ä¿é½¡çƒè¨ˆåˆ† {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String[] input = sc.nextLine().split(",");

@@ -1,8 +1,8 @@
-package ¦r¦ê_Stringsc;
+package å­—ä¸²_Stringsc;
 
 import java.util.*;
 
-public class C_ST19_©ö_®É¶¡Âà´« {
+public class C_ST19_æ˜“_æ™‚é–“è½‰æ› {
 	public static TreeMap<String, Integer> MAP = new TreeMap<String, Integer>();
 
 	public static void main(String[] args) {

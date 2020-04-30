@@ -1,8 +1,8 @@
-package °}¦CII_ArrayII;
+package é™£åˆ—II_ArrayII;
 
 import java.util.*;
 
-public class C_AR60_¤¤_¸ô®|°İÃD {
+public class C_AR60_ä¸­_è·¯å¾‘å•é¡Œ {
 	public static Long[][] map;
 
 	public static void main(String[] args) {
@@ -20,13 +20,13 @@ public class C_AR60_¤¤_¸ô®|°İÃD {
 		}
 	}
 
-//±q²×ÂI¶}©l¨ì¦^¨Ó§ä
+//å¾çµ‚é»é–‹å§‹åˆ°å›ä¾†æ‰¾
 	public static Long GO(int x, int y) {
-		if (y > x)// y>x¤£¯àºâ
+		if (y > x)// y>xä¸èƒ½ç®—
 			return Long.valueOf(0);
-		if (x < 0 || y < 0)// ¨ì-1¤]¤£¯àºâ
+		if (x < 0 || y < 0)// åˆ°-1ä¹Ÿä¸èƒ½ç®—
 			return Long.valueOf(0);
-		if (x == 0 && y == 0) {// ¨ì0´N·|¦³1
+		if (x == 0 && y == 0) {// åˆ°0å°±æœƒæœ‰1
 			return Long.valueOf(1);
 		}
 		if (map[y][x] != -1)

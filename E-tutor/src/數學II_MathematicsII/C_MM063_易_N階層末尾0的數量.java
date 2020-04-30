@@ -1,7 +1,7 @@
-package ¼Æ¾ÇII_MathematicsII;
+package æ•¸å­¸II_MathematicsII;
 import java.util.*;
 
-public class C_MM063_©ö_N¶¥¼h¥½§À0ªº¼Æ¶q {
+public class C_MM063_æ˜“_Néšå±¤æœ«å°¾0çš„æ•¸é‡ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

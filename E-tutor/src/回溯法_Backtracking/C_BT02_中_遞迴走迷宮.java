@@ -1,8 +1,8 @@
-package ¦^·¹ªk_Backtracking;
+package å›æº¯æ³•_Backtracking;
 
 import java.util.*;
 
-public class C_BT02_¤¤_»¼°j¨«°g®c {
+public class C_BT02_ä¸­_éè¿´èµ°è¿·å®® {
 
 
 	public static int ExitX;

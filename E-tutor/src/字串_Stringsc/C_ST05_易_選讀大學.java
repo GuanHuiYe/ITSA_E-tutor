@@ -1,8 +1,8 @@
-package ¦r¦ê_Stringsc;
+package å­—ä¸²_Stringsc;
 
 import java.util.*;
 
-public class C_ST05_©ö_¿ïÅª¤j¾Ç {
+public class C_ST05_æ˜“_é¸è®€å¤§å­¸ {
 	public static class school {
 		public String Name;
 		public String Property;

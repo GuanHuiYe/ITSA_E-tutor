@@ -2,7 +2,7 @@ package TH72;
 
 import java.util.*;
 
-public class Problem_4_¤å³¹¬d¸ß {
+public class Problem_4_æ–‡ç« æŸ¥è©¢ {
 
 	public static class TextIteam {
 		public String text;

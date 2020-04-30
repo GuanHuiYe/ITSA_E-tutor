@@ -1,8 +1,8 @@
-package ¼Æ¾ÇIV_MathematicsIV;
+package æ•¸å­¸IV_MathematicsIV;
 import java.util.*;
 import java.lang.*;
 
-public class C_MM171_©ö_¤Q¶i¦ìÂà¤G¶i¦ì {
+public class C_MM171_æ˜“_åé€²ä½è½‰äºŒé€²ä½ {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

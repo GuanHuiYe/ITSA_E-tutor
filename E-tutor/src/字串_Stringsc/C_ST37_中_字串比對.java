@@ -1,8 +1,8 @@
-package ¶r¶Í_Stringsc;
+package Â≠ó‰∏≤_Stringsc;
 
 import java.util.*;
 
-public class C_ST37_§§_¶r¶Í§ÒπÔ {
+public class C_ST37_‰∏≠_Â≠ó‰∏≤ÊØîÂ∞ç {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

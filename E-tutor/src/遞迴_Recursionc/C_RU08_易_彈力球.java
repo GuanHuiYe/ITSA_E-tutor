@@ -1,8 +1,8 @@
-package »¼°j_Recursionc;
+package éè¿´_Recursionc;
 
 import java.util.*;
 
-public class C_RU08_©ö_¼u¤O²y {
+public class C_RU08_æ˜“_å½ˆåŠ›çƒ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

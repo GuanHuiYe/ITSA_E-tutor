@@ -2,7 +2,7 @@ package TH73;
 
 import java.util.*;
 
-public class Problem_5_§pΩ_¶ÃπA≥ı {
+public class Problem_5_Â∞èÁ®ªÁ±≥Ëæ≤Â†¥ {
 	public static int ans = 0;
 
 	public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package °}¦CII_ArrayII;
+package é™£åˆ—II_ArrayII;
 
 import java.math.BigInteger;
 import java.util.*;
 
-public class C_AR58_©ö_¤j¾ã¼Æ¥[ªk {
+public class C_AR58_æ˜“_å¤§æ•´æ•¸åŠ æ³• {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

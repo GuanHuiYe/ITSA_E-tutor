@@ -1,10 +1,10 @@
-package ¼Æ¾ÇII_MathematicsII;
+package æ•¸å­¸II_MathematicsII;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-public class C_MM077_¤¤_¨â¤é´Á¦r¦êªº®t²§¤Ñ¼Æ {
+public class C_MM077_ä¸­_å…©æ—¥æœŸå­—ä¸²çš„å·®ç•°å¤©æ•¸ {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

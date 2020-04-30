@@ -1,8 +1,8 @@
-package ¦r¦ê_Stringsc;
+package å­—ä¸²_Stringsc;
 import java.util.*;
 import java.lang.*;
 
-public class C_ST50_¤¤_Token¤Á³Î¤Î²Î­p {
+public class C_ST50_ä¸­_Tokenåˆ‡å‰²åŠçµ±è¨ˆ {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

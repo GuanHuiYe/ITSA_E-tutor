@@ -1,9 +1,9 @@
-package ¼Æ¾ÇII_MathematicsII;
+package æ•¸å­¸II_MathematicsII;
 
 import java.math.BigInteger;
 import java.util.*;
 
-public class C_MM062_©ö_­pºâ¼Æ¦r¬Û­¼«á¥½§À0ªº¼Æ¶q {
+public class C_MM062_æ˜“_è¨ˆç®—æ•¸å­—ç›¸ä¹˜å¾Œæœ«å°¾0çš„æ•¸é‡ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

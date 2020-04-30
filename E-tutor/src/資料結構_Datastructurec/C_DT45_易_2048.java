@@ -1,8 +1,8 @@
-package ¸ê®Æµ²ºc_Datastructurec;
+package è³‡æ–™çµæ§‹_Datastructurec;
 
 import java.util.*;
 
-public class C_DT45_©ö_2048 {
+public class C_DT45_æ˜“_2048 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -2,7 +2,7 @@ package TH73;
 
 import java.util.*;
 
-public class Problem_1_¦U¦ì¼Æ©M±Æ§Ç {
+public class Problem_1_å„ä½æ•¸å’Œæ’åº {
 
 	public static class item {
 		public String str;

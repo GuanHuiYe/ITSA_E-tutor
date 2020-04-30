@@ -1,8 +1,8 @@
-package °}¦CII_ArrayII;
+package é™£åˆ—II_ArrayII;
 
 import java.util.*;
 
-public class C_AR56_¤¤_¦r¦ê«÷¹Ï {
+public class C_AR56_ä¸­_å­—ä¸²æ‹¼åœ– {
 
 	public static String Search;
 

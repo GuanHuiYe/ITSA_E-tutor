@@ -2,7 +2,7 @@ package TH73;
 
 import java.util.*;
 
-public class Problem_2_�Ƽƪ��[��k {
+public class Problem_2_複數的加減乘法 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

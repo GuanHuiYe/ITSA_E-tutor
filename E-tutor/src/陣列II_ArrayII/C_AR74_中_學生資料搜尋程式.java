@@ -1,8 +1,8 @@
-package °}¦CII_ArrayII;
+package é™£åˆ—II_ArrayII;
 
 import java.util.*;
 
-public class C_AR74_¤¤_¾Ç¥Í¸ê®Æ·j´Mµ{¦¡ {
+public class C_AR74_ä¸­_å­¸ç”Ÿè³‡æ–™æœå°‹ç¨‹å¼ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

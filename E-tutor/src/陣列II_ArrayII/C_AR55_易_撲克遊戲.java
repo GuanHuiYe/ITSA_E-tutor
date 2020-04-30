@@ -1,8 +1,8 @@
-package °}¦CII_ArrayII;
+package é™£åˆ—II_ArrayII;
 
 import java.util.*;
 
-public class C_AR55_©ö_¼³§J¹CÀ¸ {
+public class C_AR55_æ˜“_æ’²å…‹éŠæˆ² {
 
 	public static class Card {
 		public String flower;
@@ -150,25 +150,25 @@ public class C_AR55_©ö_¼³§J¹CÀ¸ {
 			Boolean a_isBig = false;
 
 			if (a.is_StraightFlush && b.is_StraightFlush) {
-				// ¤ñ¼Æ¦r
+				// æ¯”æ•¸å­—
 				if (a.card[0].num > b.card[0].num)
 					a_isBig = true;
 				else if (a.card[0].num == b.card[0].num)
-					// ¤ñÃC¦â
+					// æ¯”é¡è‰²
 					if (a.card[0].flower.compareTo(b.card[0].flower) > 0)
 						a_isBig = true;
 			} else if (a.is_StraightFlush && !b.is_StraightFlush)
 				a_isBig = true;
 			else if(a.FourofKind!=null&&b.FourofKind!=null) {
-				//¤ñ¼Æ¦r
+				//æ¯”æ•¸å­—
 				if(a.FourofKind[0].num>b.FourofKind[0].num)a_isBig = true;
 			}
 			else if(a.Fullhouse!=null&&b.Fullhouse!=null) {
-				// ¤ñ¼Æ¦r
+				// æ¯”æ•¸å­—
 				if (a.Fullhouse.num > b.Fullhouse.num)
 					a_isBig = true;
 				else if (a.Fullhouse.num == b.Fullhouse.num)
-					// ¤ñÃC¦â
+					// æ¯”é¡è‰²
 					if (a.Fullhouse.flower.compareTo(b.Fullhouse.flower) > 0)
 						a_isBig = true;
 			}

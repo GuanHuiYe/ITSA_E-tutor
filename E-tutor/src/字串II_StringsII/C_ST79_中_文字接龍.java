@@ -1,8 +1,8 @@
-package ¦r¦êII_StringsII;
+package å­—ä¸²II_StringsII;
 
 import java.util.*;
 
-public class C_ST79_¤¤_¤å¦r±µÀs {
+public class C_ST79_ä¸­_æ–‡å­—æ¥é¾ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

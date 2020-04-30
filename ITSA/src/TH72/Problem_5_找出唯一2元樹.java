@@ -2,7 +2,7 @@ package TH72;
 
 import java.util.*;
 
-public class Problem_5_§ä¥X°ß¤@2¤¸¾ğ {
+public class Problem_5_æ‰¾å‡ºå”¯ä¸€2å…ƒæ¨¹ {
 
 	public static class Node {
 		public int value;
@@ -52,9 +52,9 @@ public class Problem_5_§ä¥X°ß¤@2¤¸¾ğ {
 	public static void main(String[] args) {
 		
 		Scanner sc=new Scanner(System.in);
-		//«e§Ç¦¡
+		//å‰åºå¼
 		String pre_order = sc.nextLine();
-		//«á§Ç¦¡
+		//å¾Œåºå¼
 		String in_order = sc.nextLine();
 		
 		Node ans = new Node(Integer.parseInt(pre_order.substring(0, 1)), pre_order, in_order);

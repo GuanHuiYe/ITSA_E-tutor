@@ -1,8 +1,8 @@
-package °}¦C_Array;
+package é™£åˆ—_Array;
 
 import java.util.*;
 
-public class C_AR50_©ö_²£¥Í¶°¦X¤¸¯À {
+public class C_AR50_æ˜“_ç”¢ç”Ÿé›†åˆå…ƒç´  {
 	public static TreeMap<Long,Integer> TM; 
 	public static int size;
 	public static void main(String[] args) {

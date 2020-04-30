@@ -1,6 +1,6 @@
 package TH64;
 import java.util.*;
-public class Problem4�𪺨��X�覡 {
+public class Problem4樹的走訪方式 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

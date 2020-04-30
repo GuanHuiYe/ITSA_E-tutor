@@ -1,6 +1,6 @@
-package ÃD¥Ø31;
+package é¡Œç›®31;
 import java.util.Scanner;
-public class ÃD¥Ø31_¹L¥b¨ç¼Æ {
+public class é¡Œç›®31_éåŠå‡½æ•¸ {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

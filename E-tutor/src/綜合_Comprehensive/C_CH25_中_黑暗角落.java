@@ -1,8 +1,8 @@
-package ºî¦X_Comprehensive;
+package ç¶œåˆ_Comprehensive;
 
 import java.util.*;
 
-public class C_CH25_¤¤_¶Â·t¨¤¸¨ {
+public class C_CH25_ä¸­_é»‘æš—è§’è½ {
 	public static int[][] map;
 
 	public static void main(String[] args) {

@@ -1,8 +1,8 @@
-package °}¦C_Array;
+package é™£åˆ—_Array;
 
 import java.util.*;
 
-public class C_AR10_¤¤_·s³q¸Ü¶O²v {
+public class C_AR10_ä¸­_æ–°é€šè©±è²»çŽ‡ {
 
 	public static class CallRate {
 		public Double rate;

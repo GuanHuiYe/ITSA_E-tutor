@@ -2,7 +2,7 @@ package _2019_12;
 
 import java.util.*;
 
-public class Problem1_¹q¸Ü¶O­pºâ {
+public class Problem1_é›»è©±è²»è¨ˆç®— {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

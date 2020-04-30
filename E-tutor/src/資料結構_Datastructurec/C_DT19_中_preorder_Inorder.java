@@ -1,8 +1,8 @@
-package ¸ê®Æµ²ºc_Datastructurec;
+package è³‡æ–™çµæ§‹_Datastructurec;
 
 import java.util.*;
 
-public class C_DT19_¤¤_preorder_Inorder {
+public class C_DT19_ä¸­_preorder_Inorder {
 	public static class tree {
 		public int index;
 		public tree left;

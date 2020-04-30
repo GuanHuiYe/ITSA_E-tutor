@@ -1,9 +1,9 @@
-package ³g°ıºtºâªk_GreedyAlgorithm;
+package è²ªå©ªæ¼”ç®—æ³•_GreedyAlgorithm;
 
 import java.util.Arrays;  
 import java.util.Scanner;  
   
-public class C_GD04_©ö_¶R¼ú«~ {  
+public class C_GD04_æ˜“_è²·çå“ {  
   
     public static void main(String[] args) {  
         Scanner sc = new Scanner(System.in);  

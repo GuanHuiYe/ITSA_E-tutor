@@ -1,6 +1,6 @@
-package ¼Æ¾Ç_Mathematics;
+package æ•¸å­¸_Mathematics;
 import java.util.*;
-public class C_MM44_©ö_TheNumbers {
+public class C_MM44_æ˜“_TheNumbers {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

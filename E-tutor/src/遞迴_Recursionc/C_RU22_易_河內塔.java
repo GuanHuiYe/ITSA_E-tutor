@@ -1,8 +1,8 @@
-package »¼°j_Recursionc;
+package éè¿´_Recursionc;
 
 import java.util.*;
 
-public class C_RU22_©ö_ªe¤º¶ğ {
+public class C_RU22_æ˜“_æ²³å…§å¡” {
 	public static String ans;
 	
 

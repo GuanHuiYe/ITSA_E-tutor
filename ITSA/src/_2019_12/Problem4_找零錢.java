@@ -1,7 +1,7 @@
 package _2019_12;
 import java.util.*;
 
-public class Problem4_§ä¹s¿ú {
+public class Problem4_æ‰¾é›¶éŒ¢ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

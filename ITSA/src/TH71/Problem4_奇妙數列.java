@@ -2,7 +2,7 @@ package TH71;
 
 import java.util.*;
 
-public class Problem4_©_§®¼Æ¦C {
+public class Problem4_å¥‡å¦™æ•¸åˆ— {
 	public static LinkedList<Integer> S = new LinkedList<Integer>();
 	public static LinkedList<Integer> T = new LinkedList<Integer>();
 	public static void main(String[] args) {

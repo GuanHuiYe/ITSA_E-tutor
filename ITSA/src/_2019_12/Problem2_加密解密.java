@@ -3,7 +3,7 @@ package _2019_12;
 import java.util.*;
 import java.lang.*;
 
-public class Problem2_¥[±K¸Ñ±K {
+public class Problem2_åŠ å¯†è§£å¯† {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

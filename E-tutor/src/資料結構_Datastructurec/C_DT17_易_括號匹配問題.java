@@ -1,8 +1,8 @@
-package ¸ê®Æµ²ºc_Datastructurec;
+package è³‡æ–™çµæ§‹_Datastructurec;
 
 import java.util.*;
 
-public class C_DT17_©ö_¬A¸¹¤Ç°t°İÃD {
+public class C_DT17_æ˜“_æ‹¬è™ŸåŒ¹é…å•é¡Œ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

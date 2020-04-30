@@ -1,7 +1,7 @@
-package ¼Æ¾ÇIV_MathematicsIV;
+package æ•¸å­¸IV_MathematicsIV;
 import java.util.*;
 
-public class C_MM185_¤¤_¿é¥XPascal¤T¨¤§Î {
+public class C_MM185_ä¸­_è¼¸å‡ºPascalä¸‰è§’å½¢ {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

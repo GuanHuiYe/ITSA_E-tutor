@@ -1,8 +1,8 @@
-package ¦r¦ê_Stringsc;
+package å­—ä¸²_Stringsc;
 
 import java.util.*;
 
-public class C_ST25_©ö_½s½X¾¹ {
+public class C_ST25_æ˜“_ç·¨ç¢¼å™¨ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

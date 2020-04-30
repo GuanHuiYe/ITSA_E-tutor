@@ -1,9 +1,9 @@
-package ¦r¦ê_Stringsc;
+package å­—ä¸²_Stringsc;
 
 import java.util.*;
 import java.lang.*;
 
-public class C_ST38_¤¤_¦r¼Æ²Î­p {
+public class C_ST38_ä¸­_å­—æ•¸çµ±è¨ˆ {
 	public static class Word {
 		String Text;
 		int Count;

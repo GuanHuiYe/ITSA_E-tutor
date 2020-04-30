@@ -1,8 +1,8 @@
-package ºî¦X_Comprehensive;
+package ç¶œåˆ_Comprehensive;
 
 import java.util.*;
 
-public class C_CH11_©ö_³f²î¸ü³f³Ì¤j¼Æ {
+public class C_CH11_æ˜“_è²¨èˆ¹è¼‰è²¨æœ€å¤§æ•¸ {
 	public static class BOX {
 		public String Name;
 		public int width;

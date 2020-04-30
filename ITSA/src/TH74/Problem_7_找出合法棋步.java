@@ -2,7 +2,7 @@ package TH74;
 
 import java.util.*;
 
-public class Problem_7_§ä¥X¦Xªk´Ñ¨B {
+public class Problem_7_æ‰¾å‡ºåˆæ³•æ£‹æ­¥ {
 	public static int[][] map;
 
 	public static void main(String[] args) {

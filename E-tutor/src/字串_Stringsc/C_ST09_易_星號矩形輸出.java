@@ -1,7 +1,7 @@
-package ¦r¦ê_Stringsc;
+package å­—ä¸²_Stringsc;
 import java.util.*;
 
-public class C_ST09_©ö_¬P¸¹¯x§Î¿é¥X {
+public class C_ST09_æ˜“_æ˜Ÿè™ŸçŸ©å½¢è¼¸å‡º {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);

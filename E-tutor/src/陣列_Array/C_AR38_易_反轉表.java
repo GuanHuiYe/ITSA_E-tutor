@@ -1,8 +1,8 @@
-package °}¦C_Array;
+package é™£åˆ—_Array;
 
 import java.util.*;
 
-public class C_AR38_©ö_¤ÏÂàªí {
+public class C_AR38_æ˜“_åè½‰è¡¨ {
 	public static int[] rule;
 
 	public static void main(String[] args) {

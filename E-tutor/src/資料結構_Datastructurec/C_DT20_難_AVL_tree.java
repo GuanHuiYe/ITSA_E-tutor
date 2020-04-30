@@ -1,8 +1,8 @@
-package ¸ê®Æµ²ºc_Datastructurec;
+package è³‡æ–™çµæ§‹_Datastructurec;
 
 import java.util.*;
 
-public class C_DT20_Ãø_AVL_tree {
+public class C_DT20_é›£_AVL_tree {
 	public static TreeMap<Integer, Integer> map;
 
 	public static class Node {

@@ -1,8 +1,8 @@
-package °}¦C_Array;
+package é™£åˆ—_Array;
 
 import java.util.*;
 
-public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
+public class C_AR06_æ˜“_å­—ä¸²åœ¨å“ªè£¡ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -31,7 +31,7 @@ public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
 					for (int x = 0; x < AL.get(y).length; x++) {
 						char[] target = input.toCharArray();
 						if (target[0] == AL.get(y)[x]) {
-							// ¥ª
+							// å·¦
 							if (x - target.length+1  >= 0) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y)[x - n])
@@ -41,7 +41,7 @@ public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
 									}
 								}
 							}
-							// ¥ª¤W
+							// å·¦ä¸Š
 							if (x - target.length+1 >= 0 && y - target.length+1  >= 0) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y - n)[x - n])
@@ -51,7 +51,7 @@ public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
 									}
 								}
 							}
-							// ¤W
+							// ä¸Š
 							if (y - target.length+1  >= 0) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y - n)[x])
@@ -61,7 +61,7 @@ public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
 									}
 								}
 							}
-							// ¥k¤W
+							// å³ä¸Š
 							if (x + target.length - 1 < AL.get(y).length && y - target.length+1  >= 0) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y - n)[x + n])
@@ -71,7 +71,7 @@ public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
 									}
 								}
 							}
-							// ¥k
+							// å³
 							if (x + target.length - 1 < AL.get(y).length) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y)[x + n])
@@ -81,7 +81,7 @@ public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
 									}
 								}
 							}
-							// ¥k¤U
+							// å³ä¸‹
 							if (x + target.length - 1 < AL.get(y).length && y + target.length - 1 < AL.size()) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y + n)[x + n])
@@ -91,7 +91,7 @@ public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
 									}
 								}
 							}
-							// ¤U
+							// ä¸‹
 							if (y + target.length - 1 < AL.size()) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y + n)[x])
@@ -101,7 +101,7 @@ public class C_AR06_©ö_¦r¦ê¦b­þ¸Ì {
 									}
 								}
 							}
-							// ¥ª¤U
+							// å·¦ä¸‹
 							if (x - target.length+1  >= 0 && y + target.length - 1 < AL.size()) {
 								for (int n = 1; n < target.length; n++) {
 									if (target[n] != AL.get(y + n)[x - n])

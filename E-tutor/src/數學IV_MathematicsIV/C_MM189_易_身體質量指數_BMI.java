@@ -1,8 +1,8 @@
-package ¼Æ¾ÇIV_MathematicsIV;
+package æ•¸å­¸IV_MathematicsIV;
 
 import java.util.*;
 
-public class C_MM189_©ö_¨­Åé½è¶q«ü¼Æ_BMI {
+public class C_MM189_æ˜“_èº«é«”è³ªé‡æŒ‡æ•¸_BMI {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

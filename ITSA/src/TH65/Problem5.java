@@ -5,7 +5,7 @@ public class Problem5 {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		while(true) {
-			String[] in=sc.nextLine().split("¡@");
+			String[] in=sc.nextLine().split("ã€€");
 			if(in[0].equals("0")&&in[1].equals("0")) {
 				break;
 			}

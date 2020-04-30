@@ -1,8 +1,8 @@
-package ºî¦X_Comprehensive;
+package ç¶œåˆ_Comprehensive;
 
 import java.util.*;
 
-public class C_CH10_¤¤_The3n¥[1problem {
+public class C_CH10_ä¸­_The3nåŠ 1problem {
 	public static TreeMap<Integer, ArrayList<Integer>> TM;
 
 	public static void main(String[] args) {

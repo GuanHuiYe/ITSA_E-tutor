@@ -1,12 +1,12 @@
-package »¼°j_Recursionc;
+package éè¿´_Recursionc;
 
 import java.util.*;
 
-public class C_RU02_¤¤_ªe¤º¶ğ¹CÀ¸ {
+public class C_RU02_ä¸­_æ²³å…§å¡”éŠæˆ² {
 
 	public static TreeMap<Integer, String> plate;
 
-//¸Ñªk°Ñ¦Ò https://www.youtube.com/watch?v=2SUvWfNJSsM&t=612s
+//è§£æ³•åƒè€ƒ https://www.youtube.com/watch?v=2SUvWfNJSsM&t=612s
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int size = Integer.parseInt(sc.nextLine());

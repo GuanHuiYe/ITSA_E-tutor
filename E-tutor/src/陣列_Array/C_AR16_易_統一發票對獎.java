@@ -1,8 +1,8 @@
-package °}¦C_Array;
+package é™£åˆ—_Array;
 
 import java.util.*;
 
-public class C_AR16_©ö_²Î¤@µo²¼¹ï¼ú {
+public class C_AR16_æ˜“_çµ±ä¸€ç™¼ç¥¨å°ç {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -18,13 +18,13 @@ public class C_AR16_©ö_²Î¤@µo²¼¹ï¼ú {
 		}
 		for (int nth = 0; nth <input.length; nth++) {
 		
-			// ¯S¼ú
+			// ç‰¹ç
 			if (input[nth].equals(map[0]))
 				ans1[0]++;
 			else {
 				int getN = 7;
 				for (int index = 1; index < map.length; index++) {
-					// ÀY 2 3 4 5 6¼ú
+					// é ­ 2 3 4 5 6ç
 					for (int n = 0; n < 6; n++) {
 						if (input[nth].substring(n, 8).equals(map[index].substring(n, 8))) {
 							if (n + 1 < getN)

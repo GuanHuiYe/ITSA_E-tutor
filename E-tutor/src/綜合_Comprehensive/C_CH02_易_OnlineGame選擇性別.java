@@ -1,7 +1,7 @@
-package ºî¦X_Comprehensive;
+package ç¶œåˆ_Comprehensive;
 import java.util.Scanner;
 
-public class C_CH02_©ö_OnlineGame¿ï¾Ü©Ê§O {
+public class C_CH02_æ˜“_OnlineGameé¸æ“‡æ€§åˆ¥ {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

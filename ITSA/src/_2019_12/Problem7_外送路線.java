@@ -1,6 +1,6 @@
 package _2019_12;
 import java.util.*;
-public class Problem7_¥~°e¸ô½u {
+public class Problem7_å¤–é€è·¯ç·š {
 
 	public static void main(String[] args) {
 		Scanner SC=new Scanner(System.in);
